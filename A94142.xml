@@ -1,0 +1,426 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo letters: the one to subtile papist: the other to a zealous Presbyterian. In both which the authour conceives he hath said enough to keepe any man from the Roman Church, in the generall of religion, and from the Presbyterian congregation in the particular of the eucharist, or the Lords Supper: because St Paul saies, 1 Cor. 11. 16. Wee know no such custome, neither the Church of God. By T. Swadling, D.D.</title>
+            <author>Swadlin, Thomas, 1600-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 67 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94142</idno>
+            <idno type="STC">Wing S6230</idno>
+            <idno type="STC">Thomason E712_1</idno>
+            <idno type="STC">ESTC R207131</idno>
+            <idno type="EEBO-CITATION">99866202</idno>
+            <idno type="PROQUEST">99866202</idno>
+            <idno type="VID">118466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94142)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E712[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo letters: the one to subtile papist: the other to a zealous Presbyterian. In both which the authour conceives he hath said enough to keepe any man from the Roman Church, in the generall of religion, and from the Presbyterian congregation in the particular of the eucharist, or the Lords Supper: because St Paul saies, 1 Cor. 11. 16. Wee know no such custome, neither the Church of God. By T. Swadling, D.D.</title>
+                  <author>Swadlin, Thomas, 1600-1670.</author>
+               </titleStmt>
+               <extent>32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Charles Adams, and are to be sold at his shop at the Talbot, neer St Dunstans Church in Fleetstreet.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August. 31.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Controversial literature.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118466:1" rendition="simple:additions"/>
+            <p>TVVO LETTERS: The one to a ſubtile PAPIST: The other to a Zealous PRESBYTERIAN. In both which the Authour Conceives he hath ſaid enough to keepe any man from the Roman Church, in the Generall of Religion, and from the Presbyterian Congregation in the particular of the <hi>Euchariſt,</hi> or the <hi>Lords Supper:</hi> Becauſe St <hi>Paul</hi> ſaies,</p>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 11.16.</hi>
+               </bibl>
+               <p>Wee know no ſuch Cuſtome, neither the Church of God.</p>
+            </q>
+            <p>By T. SWADLING, D.D.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Charles Adams,</hi> and are to be ſold at his Shop at the <hi>Talbot,</hi> neer St <hi>Dunſtans Church</hi> in <hi>Fleetſtreet.</hi> 1653.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118466:2"/>
+            <head>To my Honoured friend Maſter <hi>Robert Peyton.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YOu are a young Gentleman, and fit for the Im<g ref="char:EOLhyphen"/>preſſion of ſuch Religion, as the Jeſuite by his ſubtilty, or the Presbyter by his Zeale can faſten upon you. You will be ſet upon by both, and both will endeavour to make you a Proſelyte; (ſuch Portion you are endued with, being the prey they hunt after) The following papers are therefore Dedicated to you, that you may be preſerved a Catholique; and that they may ſpread under your favour, as a teſtimony of ſome thankfulneſſe from, Sir,</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>1.</hi> Julij.</date>
+               </dateline>
+               <signed>Your friend and ſervant, THO: SWADLIN.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:118466:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>A Letter from a Catholick Divine to a Laick Papiſt</head>
+                  <opener>
+                     <salute>To my loving friend.</salute>
+                     <salute>Sir,</salute>
+                  </opener>
+                  <p>
+                     <hi>
+                        <seg rend="decorInit">A</seg>T our laſt meeting,</hi> April 28. 1653. <hi>you deſired me to give you ſome reaſons, why I did not unite my ſelf to the Church of Rome; you pro<g ref="char:EOLhyphen"/>miſed me, my reaſons ſhould be anſwered: The concluſion of our diſ<g ref="char:EOLhyphen"/>courſe, was; If your Anſwer, by your ſelf, or Friend, convinced my Reaſons, I was to be converted by you, and ſeek an admiſſion into the Church of</hi> Rome; <hi>If otherwiſe, you were to be converted by me, and become a Member of the Catholique Church, and ſerve God the ſame way. I do: what I promiſed, is performed in this paper; what you promiſed, I expect to be performed; and that is, My</hi> Conviction, <hi>or your</hi> Conviction.</p>
+                  <closer>
+                     <dateline>
+                        <date>April 29. 1653.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>I Dare not convert to, you ought not to continue in the Church of <hi>Rome.</hi>
+            </p>
+            <p n="1">1. Becauſe I have not yet received any Demonſtration, or winning and irrefragable Argument, <hi>That the Church of</hi> Rome <hi>is the onely one, Antient, Viſible, Catholique Church of Chriſt, out of which there is no Salvation.</hi>
+            </p>
+            <p n="1">1. Out of the onely one Catholique Church, I believe there is no Salvation: But I do not believe the Church of <hi>Rome</hi> to be that onely one Catholique Church, becauſe the <hi>Weſt</hi> is not all the World; and yet the onely one Catholique Church is the Univerſal Congregation of Chriſtian men and women all over the World. There are Chriſtians in the <hi>Eaſt,</hi> as well as in the <hi>Weſt;</hi> Nor yet doth the Church of <hi>Rome</hi> take up all the <hi>Weſt;</hi> For there are other Chriſtians (and I hope better) then thoſe which are Members of the Church of <hi>Rome,</hi> or Papiſts. As a Papiſt, I cannot be ſaved; as a Catholique, I may.</p>
+            <p n="2">2. Out of the Antient Catholique Church I believe there is
+<pb n="4" facs="tcp:118466:3"/>no Salvation: But I doe not believe the Church of <hi>Rome</hi> to be that <hi>Antient Catholique Church;</hi> becauſe the Antient Catholique Church, both in <hi>Chriſt the true Head,</hi> and in the <hi>Apostles</hi> the true <hi>Conclave,</hi> and in <hi>Primitive Fathers,</hi> as well <hi>Disjunctim,</hi> as <hi>Con<g ref="char:EOLhyphen"/>junctim,</hi> the true General Councils taught me</p>
+            <p>To pray, <hi>Our Father which art in Heaven;</hi> Not as the Church of <hi>Rome</hi> doth, and therefore not the Antient Catholique Church, <hi>O bleſſed Virgin, St.</hi> Peter, <hi>St.</hi> Paul, <hi>&amp;c. which art in Heaven.</hi>
+            </p>
+            <p>To believe the Scriptures; which if I do, I ſhall be ſaved; and not Traditions equally with the Scriptures, as the Church of <hi>Rome</hi> doth, and therfore not the Antient Catholique Church, which if I do not, I ſhall be damned.</p>
+            <p>To ſerve and worſhip God in Spirit and in truth; not as the Church of <hi>Rome</hi> doth, and therefore not the Antient Church, In, or by Images, Relatively or otherwiſe; which cannot father it ſelf upon any farther Antiquity, then the 2. Council of <hi>Nice,</hi> 800 years ſince. <hi>Anno</hi> 787.</p>
+            <p>To receive the Sacrament in both kinds, the Cup as well as the Pixe, the Wine as well as the Bread, the Blood as well as the Body; not as the Church of <hi>Rome</hi> doth, In one only; If I do re<g ref="char:EOLhyphen"/>ceive as the Antient Catholique Church doth teach me, I ſhall be ſaved; If I do not receive as the preſent Church of <hi>Rome</hi> com<g ref="char:EOLhyphen"/>mands me, I ſhall not be damned.</p>
+            <p n="3">3. Out of the Antient viſible Catholique Church, I believe there is no Salvation; but I do not believe the Church of <hi>Rome</hi> to be that Antient viſible Catholique Church; becauſe the An<g ref="char:EOLhyphen"/>tient viſible Catholique Church appeared fair, and without Corruption; but the preſent Roman Church appeareth (to me at leaſt) foul, and cull of Corruption; becauſe the preſent Ro<g ref="char:EOLhyphen"/>man Church departed from the viſible purity of the Antient Catholique Church, to Innovations; and the preſent viſible Catholique Church hath reformed from thoſe Innovations to the purity of the Antient Catholique Church.</p>
+            <p n="4">4. Out of the Antient, Viſible, one Church, I believe there is no Salvation; but I do not believe, the Church of <hi>Rome</hi> to be
+<pb n="5" facs="tcp:118466:3"/>that Antient Catholique, viſible, one Church; neither in the Oneneſſe or unity of affection, nor of opinion.</p>
+            <p>Not one in the unity of opinion, becauſe the <hi>Dominicans</hi> are againſt the <hi>Franciſcans,</hi> and the <hi>Franciſcans</hi> againſt the <hi>Domini<g ref="char:EOLhyphen"/>cans,</hi> concerning the Imaculate conception of the bleſſed Virgin: both Roman orders.</p>
+            <p>Becauſe <hi>Bannes</hi> is as zealous as <hi>Calvin,</hi> and <hi>Leſſius</hi> as calm as <hi>Luther,</hi> concerning abſolute Reprobation: both famous Schol<g ref="char:EOLhyphen"/>lers in the <hi>Roman</hi> Church.</p>
+            <p>Becauſe <hi>Sixtus</hi> the fifth dammes all men that uſe any other Bible but of the vulgar tranſlation; and <hi>Clement</hi> the 8. curſes all that uſes any other but his own: both Popes of <hi>Rome.</hi>
+            </p>
+            <p>Not one in the <hi>unity of affection;</hi> becauſe the moſt malicious and foul mouth'd <hi>Sectaries</hi> do not raile more at the Catholique Churchmen, and their order, then do the Secular Prieſts at the Jeſuits, and the Jeſuits at them; Becauſe the cruelleſt Presbyteri<g ref="char:EOLhyphen"/>ans ſhew not more inhumane rage againſt Catholick Biſhops, then did <hi>Sergius,</hi> (or Boniface) againſt his Predeceſſor <hi>Formoſus,</hi> damning all that he had done before, and damning him after he had taken him out of his Grave; and yet both theſe were Biſhops of <hi>Rome.</hi>
+            </p>
+            <p>Becauſe I have not yet received any Demonſtration, or con<g ref="char:EOLhyphen"/>vincing and irrfragableargument,</p>
+            <p>
+               <hi>That the Pope is the head of the Church;</hi> The contrarie of this ap<g ref="char:EOLhyphen"/>pears to me, even from that ſpeech of <hi>Chriſt,</hi> which the <hi>Romans</hi> pretend is a Demonſtration for it; <hi>viz. Thou art</hi> Peter, <hi>and up<g ref="char:EOLhyphen"/>on this Rock will I build my Church, and the Gates of Hell ſhall not pre<g ref="char:EOLhyphen"/>vail againſt it.</hi>
+            </p>
+            <p>For if my bleſſed Maſter had ſpoken this either <hi>Perſonally</hi> to Saint <hi>Peter,</hi> or <hi>Succeſſively</hi> of Saint <hi>Peter;</hi> it is more then probable, That Saint <hi>Peter</hi> writing two <hi>Catbolique Epiſtles,</hi> and in them men<g ref="char:EOLhyphen"/>tioning his departure; would at leaſt have acquainted the Ca<g ref="char:EOLhyphen"/>tholique Chriſtians, whom he writes to, with this <hi>unum neceſſa<g ref="char:EOLhyphen"/>rium,</hi> who ſhould be his Succeſſor, and by whom all controver<g ref="char:EOLhyphen"/>ſies ſhould be determined: But of this not a word; ſomething in
+<pb n="6" facs="tcp:118466:4"/>theſe <hi>Epiſtles</hi> more probable againſt this, if the Romans own ex<g ref="char:EOLhyphen"/>poſition of one paſſage be allowed, concerning <hi>Babylon,</hi> in their ſignification, <hi>Rome,</hi> the ſeat of <hi>Antichriſt.</hi> Yet more then proba<g ref="char:EOLhyphen"/>ble it is; If the Pope were Head of the Church, by vertue of ſuch ſucceſſion; That the writers of the <hi>New Teſtament,</hi> are frequently forewarning men of <hi>Heretiques, of falſe Prophets, of falſe Chriſts,</hi> ſhould never ſo much as once arme them againſt ſuch <hi>Here<g ref="char:EOLhyphen"/>tiques,</hi> againſt ſuch falſe <hi>Prophets,</hi> againſt ſuch falſe <hi>Chriſts,</hi> by let<g ref="char:EOLhyphen"/>ting them know this onely meanes of avoiding them, and turn<g ref="char:EOLhyphen"/>ing them over to the Pope, the <hi>Head of the Church.</hi>
+            </p>
+            <p>That ſo great a part of the new Teſtament ſhould be em<g ref="char:EOLhyphen"/>ploied againſt <hi>Antichriſt,</hi> and ſo little, indeed nothing at all, about the <hi>Vidar of Chriſt,</hi> and <hi>Guide of the Faithfull,</hi> the Pope, or <hi>Biſhop of Rome.</hi> Strange it ſeemes to me, that my bleſſed Saviour Jeſus Chriſt ſhould leave this the onely means for the ending of controverſies, and ſpeak ſo obſcurely and ambiguouſly of it, that now our Judge is the greateſt controverſie, and the great<g ref="char:EOLhyphen"/>eſt hinderance of ending them.</p>
+            <p>Strange it is to me, That there ſhould be better evidence in the Scripture, to entitle the King to this Office, who diſclaimes it, then the Pope, who pretends it.</p>
+            <p>Strange it ſeems to me, That if Saint <hi>Peter</hi> had <hi>been Head of the Church,</hi> he ſhould never exerciſe over the <hi>Apoſtles</hi> in generall, or any one of them in particular, any one Act of jurisdiction, nor they, nor any one of them, ſhould ever give him any one title of Authority over them.</p>
+            <p>Strange it ſeems to me, That if the Apoſtles did know that Saint <hi>Peter</hi> was made <hi>Head over</hi> them, when Chriſt ſaid, <hi>Thou art Peter,</hi> &amp;c. they ſhould ſtill contend, who ſhould be the firſt, and that Chriſt ſhould not tell them, St. <hi>Peter</hi> was the man.</p>
+            <p>Strange it appears to me, if this were true; That Saint <hi>Paul</hi> ſhould ſay, He was in nothing inferiour to the very chief Apoſtles.</p>
+            <p>Strange ſtill it ſeems to me, That the <hi>Catechumeni</hi> in the Pri<g ref="char:EOLhyphen"/>mitive Church ſhould never be taught this Foundation of their
+<pb n="7" facs="tcp:118466:4"/>
+               <hi>Faith.</hi> That the <hi>Fathers, Tertullian,</hi> Saint <hi>Hierome,</hi> and <hi>Optatus,</hi> when they flew higheſt in the commendation of the <hi>Roman Church,</hi> ſhould attribute no more to her, then to other <hi>Apoſtoli<g ref="char:EOLhyphen"/>call Churches.</hi>
+            </p>
+            <p>That in the <hi>Controverſie</hi> about <hi>Eaſter,</hi> the Biſhops of <hi>Aſia</hi> ſhould be ſo ill catechiſed, as not to know this principle of <hi>Chriſtian Re<g ref="char:EOLhyphen"/>ligion, The neceſſity of Conformity with the Church of</hi> Rome.</p>
+            <p>That they ſhould never be preſſed with any ſuch <hi>Conformi<g ref="char:EOLhyphen"/>ty</hi> in all things, but onely with the particular <hi>Tradition</hi> of the <hi>Weſtern Church</hi> in that point.</p>
+            <p>That <hi>Frycanus,</hi> and many other <hi>Biſhops</hi> (notwithſtanding, <hi>Ad hanc eccleſiam neceſſe eſt omnem Eccleſiam convenire</hi>) ſhould not yet think that to be a neceſſarie and ſufficient ground of ex<g ref="char:EOLhyphen"/>communication, which the <hi>Church of Rome</hi> taught to be ſo.</p>
+            <p>That St. <hi>Cyprian,</hi> and the Biſhops of <hi>Africa</hi> ſhould be ſo ill inſtructed in their <hi>Faith,</hi> as not to know this <hi>Foundation</hi> of it.</p>
+            <p>That they were never urged with any ſuch <hi>Conformity</hi> with the <hi>Church of Rome,</hi> nor were charged with <hi>Hereſie</hi> or <hi>Error</hi> for de<g ref="char:EOLhyphen"/>nying it.</p>
+            <p>That when <hi>Liberius</hi> joyned in Communion with the <hi>Arians,</hi> and ſubſcribed their <hi>Hereſie,</hi> the <hi>Arians</hi> then ſhould not be the <hi>Church and guide of Faith.</hi>
+            </p>
+            <p>That never any <hi>Heretiques</hi> for five ages after <hi>Chriſt,</hi> were preſſ<g ref="char:EOLhyphen"/>ed with this <hi>Argument; The Pope is the Head of the Church;</hi> nor charged with the denyall of it, as a <hi>deteſtable Hereſie;</hi> ſo that <hi>Ae<g ref="char:EOLhyphen"/>neas Sylvius</hi> ſhould have cauſe to ſay, <hi>Ante tempora Concilii Nice<g ref="char:EOLhyphen"/>ni quiſque ſibi vivebat, &amp; parvus reſpectus habebatur ad Eccleſiam Ro<g ref="char:EOLhyphen"/>manam.</hi>
+            </p>
+            <p>That the Eccleſiaſticall ſtory of thoſe times mention no Acts of Authority of the Church of <hi>Rome</hi> over other Church<g ref="char:EOLhyphen"/>es; as if there ſhould be a <hi>Monarchy and Kings,</hi> for ſome ages together, ſhould exerciſe no Acts of Jurisdiction in it.</p>
+            <p>That to ſupply this defect, <hi>The Decretall Epiſtles</hi> ſhould be ſo impudently forged, which in a manner ſpeak nothing but
+<pb n="8" facs="tcp:118466:5"/>
+               <hi>Reges &amp; Monarchas,</hi> The Popes making Lawes for exerciſing Authority over all other Churches.</p>
+            <p>That the <hi>African Churches</hi> in Saint <hi>Auſtins</hi> time ſhould be ig<g ref="char:EOLhyphen"/>norant that the Pope was <hi>Head of the Church,</hi> and <hi>Judge</hi> of <hi>Appeales, Iure divino,</hi> and that there was a neceſſity of confor<g ref="char:EOLhyphen"/>mity with the <hi>Church of Rome</hi> in this and all other points of Doctrine.</p>
+            <p>That the Popes themſelves ſhould be ignorant of the true ground of their <hi>Authority,</hi> as to pretend to it not upon <hi>Scripture,</hi> and <hi>Univerſall Tradition,</hi> but upon an <hi>Imaginarie Canon</hi> of the <hi>Coun<g ref="char:EOLhyphen"/>cill of Nice.</hi>
+            </p>
+            <p>That <hi>Vincentius Lyrinenſis,</hi> ſeeking for a <hi>Guide of his faith,</hi> and a <hi>preſervative from Hereſie,</hi> ſhould be ignorant of this ſo rea<g ref="char:EOLhyphen"/>dy a one; The Pope is the <hi>Head of the Church.</hi>
+            </p>
+            <p>Sir, Theſe are ſome, and enough of my many Reaſons, why I dare not be, why you ſhould not be a Papiſt. If yet you cannot jumpe with me in my opinion, or will not perform your pro<g ref="char:EOLhyphen"/>miſe upon my <hi>Non-conviction;</hi> Yet I pray give me leave to ſub<g ref="char:EOLhyphen"/>ſcribe my ſelf, Sir,</p>
+            <closer>
+               <signed>Your friend and Servant,THO. SVVADLIN.</signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <pb facs="tcp:118466:5"/>
+            <p>Sir, the Queſtion is, </p>
+            <q>
+               <p>
+                  <label>Opponent </label>
+                  <hi>Whether it be lawfull for a Miniſter to give the Sacrament of the Lords Supper in that generall and promiſcuous way that was uſuall in former times, and many now deſire and contend for?</hi>
+               </p>
+            </q>
+            <p>I hold the Negative, and that upon theſe enſuing grounds.</p>
+            <p>
+               <label>Reſpond.</label> Sir, The Queſtion was not this, For it was never queſtioned untill now; nor now by any but by your ſelf, and o<g ref="char:EOLhyphen"/>ther of your ſelfiſh opinion. The queſtion ſhould be this, whe<g ref="char:EOLhyphen"/>ther it be lawfull for a generall and promiſcuous ſinner to re<g ref="char:EOLhyphen"/>ceive that Sacrament? And ſo it had been determined with<g ref="char:EOLhyphen"/>out breach of Unity, the Unity of Verity, the Unity of Charity, the Unity of Authority. For he that receives it ſo, receives it unworthyly; whereas the queſtion that you have ſtarted, is the breach of all theſe Unities, and ſome more, <hi>viz.</hi> the Unity of Perſwaſion, and the Unity of Neceſſity. But Unity is the leaſt deſire of ſome men; alſo the flames of Controverſie had e're this been aſlaked and extinguiſhed, and ſome godly or tolerable peace re-eſtabliſhed in the Church, even in this Church which is bleeding to death by the Spirits of Contention. Spirits that ſtraine at Gnats, and ſwallow Camells. Spirits that raiſe ſuch queſtions, and ſo many, as may puzzle a wiſe man to anſwer, and force a pious man to bedew with teares, and rather re<g ref="char:EOLhyphen"/>quire ſilence then words for ſatisfaction. But you have propo<g ref="char:EOLhyphen"/>ſed this queſtion, and in it you hold the Negative; and that upon theſe three enſuing grounds.</p>
+            <q>
+               <p>Opponent. 1. <hi>To adminiſter it ſo, ſeemes to me to be a manifeſt per<g ref="char:EOLhyphen"/>verting of our Saviours intention and end in giving that Ordinance.</hi>
+               </p>
+            </q>
+            <pb n="10" facs="tcp:118466:6"/>
+            <p>
+               <label>Reſpond.</label> In this queſtion I hold the Affirmative; and that upon theſe three enſuing grounds; and they are your own, to ſee if you will be the Maſter of your word, and confeſſe a Con<g ref="char:EOLhyphen"/>queſt; though I proteſt unto you, it is not Conqueſt, but Truth that I contend for; Verity, not Victory is my deſire; and will therefore confine my ſelfe to your Teddar; and therefore I ſay,</p>
+            <p n="1">1. So to adminiſter it, ſeems to me: To me? yes, ſo it may. <hi>Bernardus non videt omnia;</hi> and the man whoſe eye is offuſcated, may, and ſometimes does take <hi>Auripigmentum,</hi> for <hi>Aurum,</hi> and ſo miſtakes; and ſo do you. For not to adminiſter it ſo, ſeems to o<g ref="char:EOLhyphen"/>ther men a manifeſt perverting of our Saviours intention and end in giving that Ordinance. For he gave it in a generall and promiſcuous way; Juſt that way which hath been uſuall in all times ſince, untill this very time: In that way which was uſuall in all former times for the Paſſeover to be adminiſtred in, un<g ref="char:EOLhyphen"/>till the <hi>Jewes</hi> made a defection of their obedience, and turned Rebells. Then indeed, but not untill then it was put to the queſtion, whether Chriſt might ſupp with, and conſequently give his ſupper to, Publicans and Sinners? and who reſolved beſt upon this queſtion, Chriſt, or the Phariſee, judge your ſelf; If I durſt be ſo bold with you, as you are with other men, I ſhould imagine, you are for the Phariſee, not for Chriſt; For you ſay,</p>
+            <q>
+               <p>Opponent. <hi>Chriſt gave it to diſtinguiſh and confirm:</hi>
+               </p> 
+            </q>
+            <p>
+               <label>Reſpond.</label> But do you believe it? Certainly Sir you do not; If you do, you believe not Chriſt: For his End of inſtituting this Sacrament, and which himſelf ſets down <hi>in terminis</hi> is twofold. 1. Commemorative; <hi>Doe this in remembrance of me.</hi> 2. Conſo<g ref="char:EOLhyphen"/>lative, or as you pleaſe to phraſe it, Confirmative, to Confirm. <hi>This Cup is the new Teſtament in my blood, which is ſhed for you,</hi> Luke 22.19.20. or as Saint <hi>Mathew</hi> hath it, <hi>Mat.</hi> 26.28. <hi>This is my blood of the new Teſtament, which is ſhed for many for the remiſſion of ſins.</hi> Theſe are the Ends of this Sacrament, to remember, and to
+<pb n="11" facs="tcp:118466:6"/>confirme (for I will not diſſent, where I may with ſafety con<g ref="char:EOLhyphen"/>ſent) but not, to diſtinguiſh; and therefore certainly, Sir, you doe not believe, what you ſay is the end of this Sacrament; To diſtinguiſh, your Heart and Tongue are not friends; or (for I dare not judge any man an Hypocrite, it is not in my Com<g ref="char:EOLhyphen"/>miſſion) your tongue is not the trueſt, becauſe your heart is not the wiſeſt, unleſſe you will be pleaſed to come truly and wiſely off, by diſtinguiſhing the end by a diſtinction without end, and ſay, The end of this Sacrament is double. 1. Chief. 2. Subordinate. 1. Maine. 2. Mean. and you mean the mean end of this Sacrament is to diſtinguiſh, the main end is to remember and Confirm; To remember Chriſts death for us, To confirm our Faith in Chriſt, and Chriſts graces in us: The Church thought it fit to follow Chriſt in her admirable and incompa<g ref="char:EOLhyphen"/>rable Catechiſm; where to the 21. queſtion, <hi>Why was the Sacra<g ref="char:EOLhyphen"/>ment of the Lords Supper ordained?</hi> It is thus anſwered, <hi>For the con<g ref="char:EOLhyphen"/>tinuall remembrance of the Sacrifice of the death of Chriſt, and the be<g ref="char:EOLhyphen"/>nefits wee receive thereby.</hi> Thus it was in the old Church; but thus it is not in the new Church; but if the new Church be not the true Church, give me leave to be of the old Church ſtill, the rather, becauſe ſhe followeth the Truth which is Chriſt, and Chriſt which is the Truth; ſaying, <hi>Do this in remembrance of me. This is my blood of the New Teſtament which is ſhed for many for the re<g ref="char:EOLhyphen"/>miſſion of ſinnes:</hi> To diſtinguiſh, is not the end of this Sacrament, unleſſe you mean the mean end. But you have ſaid it, and thus you prove it.</p>
+            <q>
+               <p>Opponent. <hi>As Baptiſm doth diſtinguiſh all within the Pale of the Viſible Church, from Turks and Heathens; ſo</hi> (<hi>becauſe amongſt thoſe that do acknowledge God in Chriſt, many, nay moſt do it but onely in word, profeſſing they know God,</hi> But in their workes and waies deny him, being indeed abominable: <hi>Tit.</hi> 1.16.) <hi>the Sacrament of the Lords Supper is to diſtinguiſh thoſe that acknowledge and hold forth Chriſt in their lives from the reſt of Chriſtened ſinners within the Pale of the Church.</hi>
+               </p>
+            </q>
+            <pb n="12" facs="tcp:118466:7"/>
+            <p>
+               <label>Reſpond.</label> This is a Symbolical argument, and Symbolical ar<g ref="char:EOLhyphen"/>guments cannot prove a thing; they may illuſtrate; and this il<g ref="char:EOLhyphen"/>luſtrates you to be a Sophiſter, but no Logician; and of you it might be ſaid, <hi>Cucu las non facit hominem;</hi> but I am not for ſport; and therefore in the words of Soberneſſe do ſay, you are very near of kin to <hi>Nicodemus,</hi> when he underſtood not the Princi<g ref="char:EOLhyphen"/>ples of Religion; and I muſt ask you again; Do you believe that the end of Baptiſm is to diſtinguiſh? Certainly you do not, un<g ref="char:EOLhyphen"/>leſſe you again help your ſelf at a dead lift with another meane diſtinction. I deny not but Baptiſm doth diſtinguiſh, and as a Liverie tells the World whoſe ſervants we are; but I deny it to be the end: the main end of Baptiſm. For the chiefe and Principall end of Baptiſme, is, To ſeale the Cove<g ref="char:EOLhyphen"/>nant of Grace, to teſtifie our cleanſing by Chriſt; and this I have learned from Saint <hi>Paul; Know yee not that they which are Bap<g ref="char:EOLhyphen"/>tiſed into Jeſus Chriſt, are Baptiſed into his death?</hi> Rom. 6.3. <hi>q. d.</hi> If you know not this, you know nothing. A leſſe Principal, and mean end I confeſſe it may be called; and you muſt confeſſe, you have very meanly proved your Negative opinion of this queſtion by your firſt argument. Nay, you have not proved it at all; For if to diſtinguiſh be not the end of the Baptiſm, the main end; than you have not proved, To diſtinguiſh, to be the maine end of the other Sacrament. But to diſtinguiſh is not the maine end of Baptiſm; therefore you have not by this, by this you cannot prove, To diſtinguiſh, to be the main end of the other Sa<g ref="char:EOLhyphen"/>crament. Baptiſm, and the Lords ſupper may be called Notes of diſtinction; but the end of Baptiſm is Regeneration, the end of the Lords Supper is Commemoration; but you confound Ends and Notes, and take the one for the other: I wiſh you had not walled a piece of Scripture too, and condemned moſt Chriſtians too. <hi>Quis te conſtituit judicem?</hi> who told you that moſt Chriſtians do onely in word profeſſe God? that moſt men in their lives and waies are abominable? If you have received ſuch a new illumination, I pray yet let not the next word be
+<pb n="13" facs="tcp:118466:7"/>carried in a dark lantern; and then, though I dare not ſay, moſt Chriſtians are abominable, I ſhall dare to ſay, ſome are diſobedient; and if you will give this word leave to be the <hi>Exegeſis</hi> of the Precedent and Subſequent, as ſome Expoſitors of that verſe do, you will believe thoſe men to be abominable, and to every good work reprobate, that are diſobedient; but this text you brought in by a <hi>Parentheſis;</hi> and for any good I can ſee it does you, you might as well have let it alone; It may be your next proof is of more weight; which you deliver thus.</p>
+            <q>
+               <p>Opponent. <hi>And further, Chriſt gave it to be a ſeal to confirm and ſtrengthen, which doth ſuppoſe ſomething in the Receivers to be confirmed and ſtrengthened,</hi> viz. <hi>The Sanctifying and Juſtifying graces of God; whereof we all know, not many are partakers. Therefore unleſſe there be ſome ſpeciall care taken that Juſtifyed and Sanctifyed Perſons (we guid<g ref="char:EOLhyphen"/>ing ourſelves by Scripture-light as well as we can) may be called out of the rabble of open ſinners, to me nothing is clearer then that Chriſts end in the Inſtitution of that Ordinance, is either careleſly neglected, or will<g ref="char:EOLhyphen"/>fully perverted by us.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Sir, I ſhall obſerve the Apoſtles Canon, <hi>and as much as lies in me, live peaceable with all men.</hi> Rom. 12. and therefore I joyn with you in the acknowledgement of ſo much truth, as in the beginning of this Paragraph you have delivered; I confeſs with you, Chriſt did give this Sacrament to be a Seal to confirme and ſtrengthen; and I pray you to obſerve the ſame Apoſtles Canon, <hi>and ſpeak the truth.</hi> Epheſ. 4.25. confeſſing with me, Chriſt gave not this Sacrament, as the Principall end thereof, to diſtinguiſh; and let us both obſerve that other Canon of the ſame Apoſtle, <hi>Avoide fooliſh queſtions.</hi> Titus 3.9. whereof this is one, and cannot be made good without breach of peace, to preſerve which with you, I do again confeſſe, ſomething is pre<g ref="char:EOLhyphen"/>ſuppoſed in the Receivers to be confirmed and ſtrengthened. <hi>viz.</hi> the Juſtifying and Sanctifying graces of God; but now I muſt part with you for a while. For I profeſſe my ſelf none of thoſe <hi>all that know, not many are partakers of thoſe Juſtifying and Sanctifying graces.</hi> No, I am not; nor is any modeſt man living
+<pb n="14" facs="tcp:118466:8"/>within the number of that <hi>All;</hi> no, nor dare they, for fear of com<g ref="char:EOLhyphen"/>ming under that laſh, <hi>With what Judgement yee judge, ye ſhall be judged.</hi> Mat. It is forbidden Knowledge, this, and I meddle not with it. I will not gaze at this ſtarre over my head, leaſt I fall into that ditch which is under my feet. If you have commen<g ref="char:EOLhyphen"/>ced ſo high a degree of knowledge, I ſhall not envie you; but I ſhall pitty you, that from ſuch abundance of knowledge you know not how to make your Concluſion depend upon your Premiſes; For though it be confeſt, that Chriſt did give this Sa<g ref="char:EOLhyphen"/>crament to be a Seal to confirm and ſtrengthen Gods graces in us; how doth it follow therereupon, Therefore Juſtified and Sanctified Perſons muſt be culled from the rabble of open fin<g ref="char:EOLhyphen"/>ners? what Scripture-light I pray have you to guide you in this opinion? one light of Scripture gives a clean contrary conclu<g ref="char:EOLhyphen"/>ſion, and bids us let them both grow, and grow together, and grow together untill the harveſt; and though you are entred upon other mens labours, the Harveſt is not yet come; If it were, the Angels would yet ſave you that labour; and I think you have little to do with their Office; open ſinners may be de<g ref="char:EOLhyphen"/>barred; a whole Pariſh may not be denied this Sacrament upon a ſpecious impoſſibility of culling the Sanctified from the un<g ref="char:EOLhyphen"/>ſanctified, of ſeparating the ſheep from the Goates. Many Wolves there are in ſheeps clothing, many Devills in <hi>Samuels</hi> Mantle, onely diſcernable to the eye of God. And your ſtar<g ref="char:EOLhyphen"/>ving the ſheep for fear of feeding the Wolfe, your choaking the Saint for fear of releiving the Hypocrite, is a careleſſe neglect<g ref="char:EOLhyphen"/>ing, may be a willfull perverting of Chriſts end in the inſtituti<g ref="char:EOLhyphen"/>on of this Ordinance; becauſe to remember Chriſts death, and to confirm and ſtrengthen the worthy receiver, is the end of that inſtitution; Not to diſtinguiſh the worthy from the un<g ref="char:EOLhyphen"/>worthy, though to you nothing ſeems clearer. Your firſt ground is groundleſs; your ſecond may have better footing; I ſhall exa<g ref="char:EOLhyphen"/>mine it as it lies.</p>
+            <q>
+               <p>Opponent. <hi>My ſecond ground is, If I ſo adminiſter it, I do certain<g ref="char:EOLhyphen"/>ly make my ſelfe partaker of other mens ſinnes; concerning which</hi> Paul
+<pb n="15" facs="tcp:118466:8"/>
+                  <hi>warnes</hi> Timothy, <hi>and in him all Miniſters eſpecially,</hi> 1 Tim. 5. <hi>That it is a great ſin for ungodly perſons to come and partake of that Ordi<g ref="char:EOLhyphen"/>nance, I ſuppoſe will be granted me; but ſuch cannot bring that guilt up<g ref="char:EOLhyphen"/>on themſelves without my hand and help; which if I knowingly hold forth unto them, I cannot acquit my ſelf of their ſinne; therefore it is not ſafe for me to do it.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Nay, certainly you contract a ſinne upon your ſelfe in denying the Sacrament to all for ſome mens ſake, to the good, becauſe ſome are bad; That it is a ſin for ungodly perſons to re<g ref="char:EOLhyphen"/>ceive, you have it granted; but his, not mine. The ungodly man ſinnes by receiving unworthily; the Godly Miniſters ſinnes not in adminiſtring it lawfully; and adminiſter it lawfully he doth in giving it to all, who may be preſumed fit, or after conference known able, without exception of any, but that ungodly man that is ſcandalous. It hath been the opinion of Divines, that it is a ſinne for a man to refrain, becauſe he thinkes himſelf not fitly prepared. To come not well prepared is an offence, and to ſtay away is no leſſe; Staying in ſinne, and ſtaying from the meanes of Grace, are both ſinfull; and therefore to keep away, to force away a man from the means, when for ought I know he is prepared, and doe what I can, I cannot know the contra<g ref="char:EOLhyphen"/>ry, is a ſinne; For I cannot know whether any man be a reſolute ſinner, or a delighter in ſinne; and when I know not that, I make not my ſelf partaker of his ſinnes, though by the help of my hand he adds ſinne to ſinne; becauſe it was the deſire of my heart, by that action of my hand, to take away all his ſinnes. Nor is that text of Saint <hi>Paul</hi> (ſo I ſtile him) by you aptly and to your purpoſe in hand alledged; For it concerns not the <hi>Preſ<g ref="char:EOLhyphen"/>byter</hi> in adminiſtration of the Sacrament, but it concernes the Biſhop in ordination by the impoſition of hands; read the 22. verſe of that Chapter; the verſe by you intended; and you can<g ref="char:EOLhyphen"/>not by the Context give it any other expoſition; Or, if any one will wreſt this Scripture to this purpoſe, the ſumme of it will be, I muſt not preferre one before another; I muſt do no<g ref="char:EOLhyphen"/>thing
+<pb n="16" facs="tcp:118466:9"/>by Partiality; I muſt not adminiſter the Sacrament ſud<g ref="char:EOLhyphen"/>denly to any man. Theſe things if I obſerve, I partake not of other mens ſinnes. And therefore for all your ſecond ground, you may ſafely adminiſter it.</p>
+            <q>
+               <p>Oppon. <hi>M third and laſt ground is this, I ſo adminiſtring it, doe give teſtimonialls to men againſt the ſufficient light of mine own Conſci<g ref="char:EOLhyphen"/>ence; which is not good for any man to do.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Indeed it is not, and therefore it is not good for you to deny this Pearl to any but a ſwine, to deny this bread, to any but a dogg; and many in your Pariſh may be children, and queſtionleſſe are; and will you deny the children bread, for fear the doggs ſhould eat the Crumms under the table? No, not for this; but for feare you ſhould give a teſtimoniall to man againſt the ſufficient light of your owne Conſcience. Not ſo nei<g ref="char:EOLhyphen"/>ther; I rather think you give a teſtimoniall to your ſelfe a<g ref="char:EOLhyphen"/>gainſt the ſufficient light of your own conſcience, that you diſ<g ref="char:EOLhyphen"/>charge not your duty; your duty it is to give the Sacrament to all; to all that are fit to receive, ſo they are not ſcandalous and notorious; ſo they are not to day, though they were yeſt<g ref="char:EOLhyphen"/>erday; if to day they are unfeignedly ſorry for what they yeſterday did notoriouſly, and have a proportion of Faith, you ſinne againſt your duty, if you deny ſuch a man the Sacrament. The ſtream that was foul yeſterday may be clear to day; and ſo your third ground is muddy: It may be in your diſpatch we ſhall find a more ſufficient light; For in your grounds we find a very light ſufficiency; your diſpatch is to anſwer ſome Objecti<g ref="char:EOLhyphen"/>ons, one (you ſay) may be this.</p>
+            <q>
+               <p>Oppon. <hi>Do you not deliver your own Soul from ſinne, if you warne them of the danger of unworthy receiving?</hi> And then you anſwer it thus. <hi>Indeed in hearing the word preached, if they make it the Savour of death to themſelves, it is enough to ſecure me if I warn them of it, be<g ref="char:EOLhyphen"/>becauſe God hath given the vileſt ſinners leave to hear the word; and therefore when we have told them the danger of unprepared and unprofi<g ref="char:EOLhyphen"/>table hearing, we have delivered our ſelves, and are a ſweet Savour un<g ref="char:EOLhyphen"/>to God in them that periſh.</hi>
+               </p>
+            </q>
+            <pb n="17" facs="tcp:118466:9"/>
+            <p>
+               <label>Roſpond.</label> Pray Sir, where have you a greater charge upon you in the Goſpel for delivering this Sacrament, then the Prophet had in the Law for delivering the word? God aſſured the Pro<g ref="char:EOLhyphen"/>phet that if he gave the wicked man warning, he ſhould thereby deliver his own Soul, <hi>Ezeck.</hi> 2.19. and Saint <hi>Paul</hi> thought the ſame was enough for delivering this Sacrament; read elſe that notorious Chapter, 1 <hi>Cor.</hi> 11. and ſee if you can finde the Apoſtle denying it to any, but onely telling all the danger of an unworthy receiving, and their admitting all in a ge<g ref="char:EOLhyphen"/>nerall and promiſcuous way. There were as bad I preſume in <hi>Corinth,</hi> as there are in—ſetting aſide the ſinns of <hi>Faction</hi> and <hi>Re<g ref="char:EOLhyphen"/>bellion;</hi> ſuch indeed Saint <hi>Paul</hi> would have markt and cut off. <hi>Rom.</hi> 16.17. but the Gluttons and Drunkards, he onely tells them of the danger, and ſo admits them; &amp; the <hi>Geneva</hi> note up<g ref="char:EOLhyphen"/>on that danger, ſaies but thus, <hi>Let them look to themſelves which come to this Sacrament without reverence,</hi> Let them look to themſelves; not, <hi>Let the Minister put them by.</hi> Nor doth the humble adviſe of your Aſſembly at <hi>Weſtminſter</hi> give you power to deny the Sacra<g ref="char:EOLhyphen"/>ment to any, onely they give you leave not to admit ſome. <hi>i. e.</hi> Ignorant and ungodly Perſons; and them no longer then they remain ſuch. It is in <hi>pag.</hi> 62. <hi>Sect.</hi> 8. under the title of the Lords Supper. Nor doth their Catechiſm enjoyne the Miniſter to ex<g ref="char:EOLhyphen"/>amine the Communicants, but the Communicants to examine themſelves, that they may worthily partake of the Lords Sup<g ref="char:EOLhyphen"/>per. <hi>pag.</hi> 36.</p>
+            <q>
+               <p>Opponent. <hi>But God hath not allowed them to feed at his table, till they ſhew themſelves ſo and ſo qualified and adorned, that their Know<g ref="char:EOLhyphen"/>ledge, Faith, Repentance, Love,</hi> &amp;c. <hi>do appear upon them as a wedding Garment. And if he have forbidden them to receive it, ſurely he hath forbidden us to give it them; and therefore to tell them the danger, is not enough to excuſe us, we give his holy things to doggs. It ſufficeth not to tell them they are unclean. There are ſome holy things of God wee muſt de<g ref="char:EOLhyphen"/>nie them, as we would paſſe without rebuke another day.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> No ſurely, The conſequence is a very inconſe<g ref="char:EOLhyphen"/>quent,
+<pb n="18" facs="tcp:118466:10"/>though the Premiſes were true. For where hath God forbidden them to receive it? He hath onely told them the dan<g ref="char:EOLhyphen"/>ger if they receive unworthily: He hath not forbidden them to receive it. But though God had forbidden them to receive it, doth it therefore follow, that he hath forbidden us to give it to them? No ſurely, God forbids the King to be a Tyrant; doth he therefore forbid the people to be Subjects? No ſurely, God forbids my Pariſhioner to pray, if he be not in charity; doth he therefore forbid mee to admit him into the Church? No ſurely, my duty is to open the Church-door, to invite him to pray, to invite him to receive; to tell him how he may pray effectually, how he may receive worthily. If he will pray malitiouſly, If he will receive unworthily, the fault is his; I am diſcharged. Hee ſhould do his duty, I muſt doe mine. Elſe my not doing my du<g ref="char:EOLhyphen"/>ty, becauſe he does not his, does but make me ſecond his ſinne, or ſecond in the ſinne Surely Sir, your Rational argument is ſom<g ref="char:EOLhyphen"/>what unreaſonable; but you will make it clear by a Symbolical argument. So you go on.</p>
+            <q>
+               <p>Opponent. <hi>But to make it clearer, If one ſtanding by me with a drawn ſword ſet to kill himſelf; if my hands be bound behind me, (as in the caſe of the word they are) then I have done my full duty, if I tell him it is ſinne, and beſeech him as he would not deſtroy Gods Image, and ſend himſelf to Hell, to forbear that act: but if my hands be not bound, and I ſtronger then he, is it enough to warn and beſeech him? I trow not; ſure it is my duty to wreſt the ſword out of his hand, or hold him that he cannot do that wickedneſſe. But ſuppoſe the man come, and tell me before, what de<g ref="char:EOLhyphen"/>ſign is in his heart, and I after telling him the danger, and beſeeching him, put a ſword into his hand to do it withall, (and this onely comes up to the caſe in hand) am not I more guilty of the ſinne then he himſelf is? Sure I am. Therefore it is not enough to warn open ſinners of the danger of unworthy receiving.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Sure you are! yes ſure you are, ſure you are guilty of infinite folly. For will any wiſe man <hi>ſupponere non ſupponen<g ref="char:EOLhyphen"/>da?</hi> Did ever any man, that intended to be <hi>Felo de ſe,</hi> come and
+<pb n="19" facs="tcp:118466:10"/>tell his Neighbour, his Friend, his Paſtor, that he would hang himſelf with his Garter, or kill himſelf with his ſword? and that which was never done, will any wiſe man ſuppoſe to be done? <hi>Sapientia nihil ſupponit quod non ponitur.</hi> But you ſup<g ref="char:EOLhyphen"/>poſe it; and withall you ſuppoſe you put a ſword into his hand to do it withall (and this onely comes up to the caſe in hand) am not I more guilty of the Murther then he himſelf is? Sure I am; Yes, ſure you are indeed; and I will ſuppoſe a clearer ſup<g ref="char:EOLhyphen"/>poſition for you. A Laick or Lay-man that hath a mind to ſhake off the yoak of obedience, and turn the Sonne of <hi>Belial,</hi> comes to you, and tells you, he would faine fight againſt the high Power, and kill him if he were not affraid to receive damnati<g ref="char:EOLhyphen"/>on for his paines. In this caſe indeed, you ſhould have wreſted the ſword of Diſobedience out of his hand; or if you tell him; It is no Rebellion, it is no ſinne to fight againſt the higher Pow<g ref="char:EOLhyphen"/>er, and the higher Power, or any of his party be killed, you are more guilty of the Murther then himſelf; Yes, ſure you are; and if this ſanctified Rebell comes to you, to receive this Sacra<g ref="char:EOLhyphen"/>ment, and you give it him without any ſign of Repentance for his unſanctified Rebellion, you adde guilt to guilt, the guilt of Countenance to the guilt of Counſell. But if a man that was drunk laſt week, comes the next week, and proteſts his Repen<g ref="char:EOLhyphen"/>tance for that ſinne, and deſires to receive the Sacrament as a Seal of forgiveneſſe for that very ſinne, and you deny it him, you adde more guilt to your ſelf, the guilt of Partiality to your guilt of Scrupuloſity; For it is enough to warne any ſinner, any, ſaving a notorious and obſtinate ſinner, of the danger of un<g ref="char:EOLhyphen"/>worthy receiving.</p>
+            <q>
+               <p>Opponent. <hi>But did not our Saviour give the Sacrament to</hi> Judas, <hi>whom he calls a devill? and therefore why may not Ministers give the Sacrament to thoſe they know to be willfull ſinners? Indeed</hi> Luke 22.21. <hi>brings in our Saviour firſt, celebrating that Ordinance, and then ſpeak<g ref="char:EOLhyphen"/>ing theſe words,</hi> Behold, the hand of him that betraies me is with me on the table; <hi>and therefore I am enclined to believe that Chriſt
+<pb n="20" facs="tcp:118466:11"/>did give it him; but thence can nothing be concluded againſt my Judgme<g ref="char:cmbAbbrStroke">̄</g>t.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> It may be nothing againſt your Judgement, but ſomething againſt your practiſe you may; For Chriſt knew <hi>Ju<g ref="char:EOLhyphen"/>das</hi> to be a willfull ſinner; and yet rejected him not, but admit<g ref="char:EOLhyphen"/>ted him; you onely ſuſpect ſome men to be willfull ſinners, (for you cannot know any man to be a wilful ſinner without his own acknowledgement) and yet you admit them not, bu reject them; and therefore ſomething may be hence concluded againſt your practiſe; and it may be ſomething againſt your Judgement too, if your Judgement be as you ſay.</p>
+            <q>
+               <p>Oppon. <hi>For</hi> 1. <hi>Our Saviour was God; and as he had Power to for<g ref="char:EOLhyphen"/>give ſinners upon Earth, it might well be an Act of Divine Juſtice upon</hi> Judas <hi>for his Hypocriſie, to ſeale him up in his ſinne, and make him fully ripe for Hell; when it can be cleared that it is the duty and work of a Goſpel-Miniſter to puniſh ſinne, then I think we may give the Sacra<g ref="char:EOLhyphen"/>ment to willfull ſinners; but it may ſafely be thought that Chriſt did it by a Power that is above any, our Commiſſion is inveſted withall.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Yes, our Saviour was God, is God, and will be God, bleſſed for ever; and as the Sonne of Man, (not God onely) he had Power to forgive ſinners upon Earth; ſo farre we agree; and I wiſh you, if you are one of his Miniſters, to uſe that key of Power, he hath truſted you with, as well to open as to ſhut. But in your next paſſage we are not ſo well agreed; you ſay, it might be, and I ſay it might not be an act of Divine Juſtice to ſeal up <hi>Judas</hi> in his ſinne; <hi>Melius eſt dubitare de occultis, quam litiga<g ref="char:EOLhyphen"/>re de incertis;</hi> Take heed of comming too near this fire, it may elſe burne your beard. It becomes not a Goſpel-Miniſter to ſay, Chriſt did make any man fully ripe for Hell; It is ſafer, and bet<g ref="char:EOLhyphen"/>ter becomes a Goſpel-Miniſter to ſay with the Goſpel-Apoſtle, <hi>Ieſus Chriſt came into the World to ſave ſinners, the chieſe of ſinners,</hi> 1 Tim. 1.15. and yet it is the duty of a Goſpel-Miniſter to pu<g ref="char:EOLhyphen"/>niſh ſin; Elſe the Apoſtle would never have given ſo many charges to the Goſpel Biſhops to rebuke, to correct, and in
+<pb n="21" facs="tcp:118466:11"/>ſome caſes ſharply too; and yet neither that Apoſtle, nor any other Apoſtle, nor Jeſus Chriſt himſelf hath given Power to a<g ref="char:EOLhyphen"/>ny, Biſhop, or Presbyter to give the Sacrament to a willfull ſinner, on purpoſe to make him ripe for Hell. That is a Power indeed above any, our Commiſſion is inveſted withall.</p>
+            <q>
+               <p>Opponent. <hi>But ſecondly, I can anſwer thus, Chriſt in that his tranſ<g ref="char:EOLhyphen"/>action ſet a preſident to the Miniſters of the Goſpel, how they might car<g ref="char:EOLhyphen"/>ry themſelves in that Adminiſtration free from guilt. Such as joyne themſelves to the ſociety of his people, that do outwardly profeſſe Chriſt and his truth, do thoſe duties of Religion materially that true Proteſtants doe, and nothing ſcandalous can be laid to their charge, though they be rotten Hypocrites; Yet it not being any mans work to ſearch hearts, wee muſt think nothing but good of them, admit them, and though they be as un<g ref="char:EOLhyphen"/>worthy Receivers as ever</hi> Judas <hi>was, we are clear, their blood lies upon their own heads; So that inſtance of</hi> Judas <hi>his admiſſion to the Sacrament, in my apprehenſion, makes not at all againſt me, but for me. If you can give an instance, that our Saviour, or his Deſciples gave it to any that had their ſoars running upon them, and eaſily to be obſerved by every Eye, let us hear it, and I ſhall confeſſe it is for your turne.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Confeſſe, then; For this your own inſtance makes altogether againſt you, though in your apprehenſion it makes onely for you. Chriſt at this time ſupplyed the Miniſters place. He admitted the Communicants, and amongſt the reſt he admit<g ref="char:EOLhyphen"/>ted <hi>Judas: Judas,</hi> a covetous wretch, an arrant Traytor, though in ſhew a zealous Saint, and a provident Almoner; His ſoar running upon him; his very Hypocriſie as apparent to Chriſt, as that mans impiety is that fights againſt Power to defend it; <hi>Iudas,</hi> that joyned himſelf to the ſociety of Chriſts people; <hi>Iudas,</hi> that outwardly profeſſed Chriſt and his truth: <hi>Judas,</hi> that did theſe duties of Religion that true Presbyterians do, and yet in<g ref="char:EOLhyphen"/>trinſecally was a Devill; and all this well known to Chriſt. Yes, and to two of his Apoſtles at leaſt, if not to all the reſt, Saint <hi>Peter</hi> and Saint <hi>John.</hi> Saint <hi>Peter,</hi> that prompted Saint <hi>John</hi> to
+<pb n="22" facs="tcp:118466:12"/>ask, and Saint <hi>John</hi> that upon Saint <hi>Peters</hi> motion asked Chriſt, who it was that ſhould betray him; even him, by your own con<g ref="char:EOLhyphen"/>ceſſion, did Chriſt admit to his Table, without any more ado, then telling him the danger of his unworthy comming thither: whence may certainly be inferr'd; we ſhall not incurre any guilt for admitting the like Communicants, though we but do tell them the danger of unworthy receiving. And your next inſtance is as much for your purpoſe.</p>
+            <q>
+               <p>Opponent. <hi>Why it may be, you will tell me of the Church of</hi> Corinth; <hi>their drunkeneſſe, and ſinne, ſate downe at Table with them; but let it be ſuppoſed, that</hi> Paul <hi>had come in when they were going to't, many of them in that condition. I deſire to know if you can believe he would have thought a reprooſe or telling them the danger ſufficient? for my part I verily think, he would have had his arme pull'd out of his ſhoulder-blade, rather then have given it to any ſuch a one, though truly in Jeſus Chriſt; and therefore much leſſe would he have adminiſtred it to them, whoſe ſins daily teſtified them to be voide of Faith, and the worke of grace in them.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> At your ſuppoſitions again, and at impoſſible ſup<g ref="char:EOLhyphen"/>poſitions, at leaſt, very unlikely: very like a man overcome with drink (I underſtand not thoſe words otherwiſe, going to many of them in that condition) ſhould go to receive the Sa<g ref="char:EOLhyphen"/>crament. I dare ſay, you never ſaw any man offer it. And then, <hi>you think;</hi> what do you think? <hi>that ſuch a one is truly in Ieſus Chriſt?</hi> pretty ſtill, <hi>Animally,</hi> and <hi>in ſemine</hi> he may. <hi>Actually,</hi> and in <hi>ſenſu</hi> he is not; and thence you conclude; <hi>Therefore much leſſe would he have adminiſtred it to them, whoſe ſinnes dayly teſtified them to be void of Faith and the work of grace in them.</hi> Marke Sir, if this concluſion follow upon your premiſes, or if you do not draw it againſt reaſon, your <hi>Maior</hi> a ſuppoſition, an unlikely, if not an impoſſible ſuppoſition; your <hi>Minor,</hi> I think St. <hi>Paul</hi> would not; your <hi>Con<g ref="char:EOLhyphen"/>cluſion</hi> therfore much leſſe would he. Well ſir, I ſhall not further commend your skill in Logick; I ſhall onely help you to a bet<g ref="char:EOLhyphen"/>ter
+<pb n="23" facs="tcp:118466:12"/>argument from your owne inſtance.</p>
+            <p>Upon what termes, and in what way Saint <hi>Paul</hi> adminiſtred the Sacrament at <hi>Corinth;</hi> upon the ſame termes and in the ſame way may Mr.—adminiſter the Sacrament at—</p>
+            <p>But upon exhortation and Information, in a generall and pro<g ref="char:EOLhyphen"/>miſcuous way did Saint <hi>Paul</hi> adminiſter the Sacrament at <hi>Co<g ref="char:EOLhyphen"/>rinth.</hi> Therefore upon Exhortation and Information in a gene<g ref="char:EOLhyphen"/>rall and promiſcuous way may Mr. — adminiſter the Sacra<g ref="char:EOLhyphen"/>ment at—and this your next Inſtance will not gaine-ſay.</p>
+            <q>
+               <p>Opponent. <hi>O, but charity thinketh well,</hi> 1. Cor. 13.5. <hi>and therefore you ought to make the beſt of your brother, and not the worſt. The word will very well bear,</hi> plotteth no ill in his minde againſt his brother.</p>
+            </q>
+            <p>
+               <label>Reſpond.</label> By the way, you know the word will not bear it, neither in the Latine, nor Greek; neither in the Latine <hi>Cogito,</hi> or <hi>Meditor,</hi> nor in the Greek, <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; either of theſe words may ſignifie, to conſider, to purpoſe, to caſt in mind; but to <hi>Plot ill,</hi> they ſignifie not; and you are willing to wave; and therefore you ſay.</p>
+            <q>
+               <p>Opponent. <hi>But let it be taken for</hi> Suſpecting his brother guilty of evill. <hi>This, tis true, Charity will not doe, where there is not juſt ground and cauſe for it. If that grace of Charity work jealouſies, and evill ſurmiſings concerning my brother, it will not dwell in me; but upon manifeſt ground and warrant, I may ſuffer them to ariſe, and conſiſtent enough are they with that true grace of Charity in my heart. If I know that ſuch or ſuch a man followes the pot, gives himſelfe ordinarily to wound and ſlander the good name of his neighbour, that ſets no watch before the door of his lips, whoſe Religion is vain, ſaies</hi> Iames, that doth not read Scripture in his Family, nor catechiſe and inſtruct his Family in the ſaving Principles of Ieſus Chriſt, nor pray con<g ref="char:EOLhyphen"/>ſtantly with his Family; <hi>To ſwear by his Faith and Troth, is ordinary in his diſcourſe, his tongue is ſo uſed to't, that he cannot forbear it in
+<pb n="24" facs="tcp:118466:13"/>the company of his Miniſter. If I certainly know a man living in any one of theſe, or any other ſinne, name what you will, the Charity which is of God will never forbid me to think evill of him. I may think, and if I be call'd to't, ſay, that as yet Chriſt is not in him, and that he is unworthy to be a gueſt at the Lords table, till ſuch time a Divine change and a<g ref="char:EOLhyphen"/>mendment appear in his converſation, as his ſin hath done.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Confident enough, but not concluding enough; For though he live in any one of theſe ſinnes, yet it may be none of theſe ſinnes live in him; and the Apoſtles rule is obſerved, where he ſaies, <hi>Nè regnet,</hi> not <hi>Nè ſit, Let not ſinne reign in your mor<g ref="char:EOLhyphen"/>tall body,</hi> Rom, 6.12. he doth not ſay, let not ſinne be in your mortal body. Be there it will, ſo long as we be here, in the very beſt of us all; But be it admitted for your ſake, that the man lives in the ſinne, and the ſinne lives in the man, becauſe you ſay, <hi>If I know ſuch a man followes the pot,</hi> &amp;c. yet it is but for this time; it may be untill the day, or night before he come to receive the Lords ſupper; you know not what a change, what a Repen<g ref="char:EOLhyphen"/>tance, what a godly ſorrow God hath in that day or night wrought in him; will you, becauſe this change doth not appeare in him, account him unworthy, and therefore forbid him the Lords Table, and therefore force him from the Lords? As the text you have quoted ſaies, Charity thinks no ill. <hi>i. e. It works no jealouſies and evill ſurmiſings concerning my brother,</hi> according to your Expoſition; which Expoſition I wiſh you had forborne, for your Maſters ſakes. So, if you read two verſes further, which is within the Context, you ſhall finde too, <hi>Charity hopes the beſt:</hi> your knowing him to follow thoſe ſinnes, may work you to ſuſpect him, I will not ſay for want of Charity; but I will ſay, your ignorance, or not knowing of this change in him, may not move you to reject him, if you have the hope of Charity? But be it once more admitted for your ſake, That ſuch a Change is not, That noe change is wrought in the man; what then! why then, he is unworthy to come to the Lords Table; but it is not
+<pb n="25" facs="tcp:118466:13"/>then your duty to put him, or keepe him from that Table: and therefore you are to blame by this, and much more to blame by the Verdict of your next Inſtance.</p>
+            <q>
+               <p>Opponent. <hi>But if men come to you, and acknowledge ſuch ſinns they have lived in, and ſay, they are ſorry for them; why ſhould not you believe they are reall, &amp; 'tis true repentance, and ſo admit them? Doubtleſſe in that caſe, wee are not to deny the truth of their repen<g ref="char:EOLhyphen"/>tance; nor yet take it for granted upon their bare words, but ought to deſire them to hold forth that change in life, and the graces contrary to his former vices, and withall tell him, that if this ſhould be no<g ref="char:EOLhyphen"/>thing but meer words and pretences, that then he did eat and drink damnation to himſelf; whereof the Miniſter too would be guilty. But if his repentance be ſound; If a ſaving change and Faith be wrought in him, it canno<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> be unſafe or prejudiciall to him to forbear that Or<g ref="char:EOLhyphen"/>dinance a little while, becauſe he may feed upon Chriſt, and derive his comforts and vertues from his death by the lively working of Faith without the Elements. 'Tis not the want, but contempt of the ſignes that hinders our partaking of Christ and his benefits; and his for<g ref="char:EOLhyphen"/>bearing for the Miniſters, or churches ſake, being great humility and ſelf-denyall, would doubtleſſe be conſidered of God, who would make up the loſſe of the Elements immediately by himſelf or ſpirit, and double comforts to him, when his converſation ſhall commend him to that table for a worthy receiver.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Sir, you have ſpoken much truth in this Para<g ref="char:EOLhyphen"/>graph; but you have expreſt little charity; ſhewn much Schiſme, and hinted a grain of Hereſie, if other men had not Charity enough to believe the beſt of you. Hereſie it is, to deny the Spirit of God to be God; you do not deny it, but you intimate it; elſe why doe you ſay, <hi>God would by himſelf or Spirit?</hi> as if himſelfe and Spirit were two, &amp; ſeveral things; but I believe the beſt of you; you are not an Heretick; I wiſh you were not a Schiſmatick; but I muſt tell you, you goe
+<pb n="26" facs="tcp:118466:14"/>againſt the generall Cuſtome of the Univerſall Church which hath alwaies willingly and chearfully admitted that man to receive, who is penitent; <hi>vos autem non ſic,</hi> and you obſerve not the Apoſtles Canon, who would have every man ſo to eat and drink, <hi>i. e.</hi> upon his Repentance to re<g ref="char:EOLhyphen"/>ceive; but you deny him; and whether this be Schiſme, or not, I hope you can tell. Your want of Charity appears, in that you will ſuſpect his Repentance to be but <hi>Verball,</hi> when himſelf affirms it to be <hi>Real;</hi> But for your ſake be it ad<g ref="char:EOLhyphen"/>mitted to be but <hi>Verball,</hi> though I do not, I dare not ſuppoſe it ſo, or ſo ſuſpect it; yet it is not otherwiſe known to you then to be <hi>Reall,</hi> becauſe you know not his heart; his ſinne is onely thereby doubled for comming ſo unworthily; your ſinne is not leſſened for denying to admit him, becauſe for ought you know he came worthily; and if his Repentance were <hi>Reall,</hi> as he proteſted, and you by the rule of Chari<g ref="char:EOLhyphen"/>ty ought to have believed, your ſinne is doubled in not ad<g ref="char:EOLhyphen"/>mitting him; and all this, though he had acknowledged or made known ſo much to you; and this you evidence a<g ref="char:EOLhyphen"/>gainſt your ſelf in your next Inſtance; which is.</p>
+            <q>
+               <p>Opponent. <hi>But</hi> (<hi>Saint</hi> Paul <hi>ſaies,</hi>) Let a man examine him<g ref="char:EOLhyphen"/>ſelfe, 1 <hi>Cor.</hi> 11.28. <hi>he doth not bid the Miniſter or Church ex<g ref="char:EOLhyphen"/>amine him; Indeed I think none ought to be forc't to the Sacramen, but ſuch as deſire to partake of it; but becauſe the Miniſter muſt have a hand with them in that act, there is all Chriſtian reaſon why they ſhould be willing and ready to give him an account of their Knowledge, Faith, and of that change that God hath wrought upon their Soules. If a Christian be bound to give a reaſon of his Faith and doings to everyone that ſhall (not in an enſnaring way) aske him a reaſon or account, as Saint</hi> Peter <hi>hints he muſt,</hi> 1 Pet. 3.15. <hi>how much more is he bound to doe it to his Paſtor, to whoſe care God hath committed him, and who muſt give an account at the laſt day for
+<pb n="27" facs="tcp:118466:14"/>him? Therefore that Precept,</hi> Let a man examine himſelf, and ſo eate, <hi>doth not hinder that the Miniſter with ſome godly judici<g ref="char:EOLhyphen"/>ous men deputed thereunto may examine all thoſe that offer them<g ref="char:EOLhyphen"/>ſelves to the Lords Table, not preſuming on an infallible, but ma<g ref="char:EOLhyphen"/>king a charitable diſcrimination, that the Table of the Lord be not prephaned.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> And whence comes this Charitable diſcrimina<g ref="char:EOLhyphen"/>tion? whence comes the deputation of Godly judicious men to be joyn'd with the Miniſter to examine all thoſe that offer themſelves to the Lords Table, <hi>è Praetorio,</hi> or <hi>è Sanctuario?</hi> Speak it, if you know it; From the Church of <hi>England</hi> it came not; and therefore not from the Primitive Church. For whatſoever the Primitive Church thought neceſſary either in Doctrine, or Diſcipline, the Church of <hi>England</hi> hath retained and enjoined; From the Apoſtles it came not; For Saint Paul, who alone of all the Apoſtles, hath been preciſe in delivering the ſubſtance and Circum<g ref="char:EOLhyphen"/>ſtance, the Doctrine and Diſcipline of this Sacrament, though he knew the Church of <hi>Corinth</hi> did abound with ſundry Errors and Corruption, both in Faith and Man<g ref="char:EOLhyphen"/>ners, did yet give order for the Excommunication of one only ſinner, &amp; that one a Contumacious, a Notorious, a Scan<g ref="char:EOLhyphen"/>dalous ſinner, and then ſufficed himſelf with a generall propoſall of the great danger of unworthy receiving, and remitted every other particular Perſon to a ſelf-Examina<g ref="char:EOLhyphen"/>tion. He gave order to none to exclude any from that holy Table upon their Examination; nor indeed gave he order to any, either <hi>Miniſter</hi> or <hi>Elder</hi> (much leſſe <hi>Lay-Elders,</hi> as not being then planted) to examine; Nor doth Saint <hi>Peter</hi> thwart Saint <hi>Paul.</hi> For Saint <hi>Peter</hi> there ſpeaks of a godly mans giving an account of his hope to a wicked Perſecu<g ref="char:EOLhyphen"/>tor, as appears by the Context; Saint <hi>Paul</hi> here adviſes a man to a ſelf-examination, that he may be a worthy re<g ref="char:EOLhyphen"/>ceiver;
+<pb n="28" facs="tcp:118466:15"/>and therefore your inference is not good of all Chriſtian reaſon. For Reaſon and Chriſtianity both tell us, we may very well content our ſelves with that courſe the Apoſtle took in adminiſtring and receiving the holy Sacra<g ref="char:EOLhyphen"/>ment in a generall and promiſcuous way; unleſſe you will be guilty of the next objection you frame, which is;</p>
+            <q>
+               <p>Opponent. <hi>But in denying us the Sacrament, the children loſe their Bread, and Right!</hi>
+               </p> 
+            </q>
+            <p>
+               <label>Reſpond.</label> Yes indeed do they, For if they be children, they have right to that Bread; and you that deny them, rob them of it. Anſwer it as you wil, and how well you do it, I ſhall now examine.</p>
+            <q>
+               <p>Opponent. <hi>I anſwer, Firſt they may enjoy it elſewhere, or in a more private way among themſelves; which in ſome caſes cannot be denyed to be warrantable enough.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> Yes, but it can, and is, in all caſes to be any way warrantable amongſt themſelves; <hi>Laicks</hi> have nothing to do in the adminiſtration of this Sacrament; and if they receive it elſewhere, what thanks is that to you? or is you duty thereby diſcharged? you ſaid erewhile, God had committed them to your charge, and you muſt give an account for them at the laſt day; and ſo you muſt for a <hi>Quis haec requiſivit</hi> too; and for a <hi>Quare haec den<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gaſti</hi> too. Nor will your next Anſwer diſcharge you.</p>
+            <p>Opponent. <hi>But ſecondly, will the children clamour, becauſe it is ſuſpended (they knowing a way to get ſtrength and comfort from Chriſt, to get the thing ſignified, notwithstanding the ſuſpenſion of the Elements) when they cannot enjoy it, but their Fathers Table is ſure to be polluted, and his holy things perverted in their uſe and end? For my part I think the children cannot but very much deſire it; but things ſtanding as they do, dane not clamour for it; the not feeding of their ſences therewith, not at all threatning damnation to them.</hi>
+            </p>
+            <pb n="29" facs="tcp:118466:15"/>
+            <p>
+               <label>Reſpond.</label> What a concatenation of Abſurdities are here? If they know a way to get Chriſt, without the Elements, they are worthy to receive the Elements; and why then are the Elements ſuſpended? by whoſe fault? why, or by whom is their Fathers Table polluted, if they are worthy to re<g ref="char:EOLhyphen"/>ceive it, and do not receive it? not by themſelves, becauſe they are worthy. Certainly by ſome other, who do receive it with them, or without them, unworthily: How is the uſe &amp; end of the Sacrament perverted by their receiving, if they be worthy, or by whom? <hi>Dic bone Damaetas.</hi> For your part, you think they may deſire; and for my part, I think not, I am ſure, you may not deny it. It is againſt your duty; and why then may they not clamour (I take this word in the beſt conſtruction) for it? becauſe the not feeding of their ſences, (how, Popery in a Presbyterian? wee feed not our Iences, nor do our ſences feed; wee feed our Faith, and our Faith feeds at the Sacrament) therewith not at all threat<g ref="char:EOLhyphen"/>ning damnation to them; but take heed, your not feeding them. <hi>i.e.</hi> your robbing them of their right, threatens not your ſelf, I dare not ſay, with damnation; your laſt ſhift, and not modeſt compariſon is no Poſtern for you.</p>
+            <q>
+               <p>Oppon. <hi>But as godly and learned men as your ſelf conſtantly do it; And as godly and learned as they (I am ſorry I am forc't to make the compariſon) dare not do it; and ſo the ſcales hang even.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> No the ſcales doe not hang even: Saint <hi>Paul,</hi> as godly and learned a man as your ſelf, did do it, at leaſt did command it to be done; and where is your man as godly and learned as he, that now does it not, dares not do it? or why dares he not do it? If he have been wrapt up into an higher heaven then St. <hi>Paul</hi> was, and there received a new Illumina<g ref="char:EOLhyphen"/>tion, let him produce it; till then you may be ſorry for the Compariſon, and aſham'd of it too. I know no body forc't you to it.</p>
+            <pb n="30" facs="tcp:118466:16"/>
+            <q>
+               <p>Oppon. <hi>Secondly, upon what grounds thoſe godly and learned men do it, I know not. I would to God they might be put forth into the light, that ſo this pestering trouble between many Miniſters and their people might be at an end</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Reſp.</hi> This trouble never peſtered any before this ward<g ref="char:EOLhyphen"/>ſhip of Religion came amongſt us, by whom, it may be, you know, I ſpeak not; which light is put forth (your own lan<g ref="char:EOLhyphen"/>guage) for you and other Miniſters to view well; which if you doe, the people will ſoone ſee an end of this peſtering trouble; though yet,</p>
+            <q>
+               <p>Oppon. <hi>Thirdly to me no examples are binding, but thoſe of Chriſt and his Apoſtles. I am confident at the laſt day, neither you nor I dare plead the Example of the holieſt and ableſt men that are now alive. There is ſo much weakneſſe in this objection (though it hath ſtill come in for one againct me) that had it not been to ſatisfie the weak, I would not have ſpent a penfull of inke upon it.</hi>
+               </p>
+            </q>
+            <p>
+               <label>Reſpond.</label> And indeed your Anſwer is ſo full of weakneſſe to this objection full of ſtrength, that had it not been to ſa<g ref="char:EOLhyphen"/>tisfie your ſelf, you and I had ſaid the ſame thing, and ſent one another clean ſheets. I dare not, as you dare not, plead the Examples of the holieſt and ableſt men that are now a<g ref="char:EOLhyphen"/>live, at the laſt day; but if the holieſt and ableſt men that are now alive, do in this point follow the Examples of Chriſt and his Apoſtles, I dare follow their Examples, not becauſe they are theirs, but becauſe they are Chriſts and his A<g ref="char:EOLhyphen"/>poſtles. Chriſt inſtituted this Sacrament in a generall and promiſcuous way, by admitting <hi>Judas</hi> with the reſt; Saint <hi>Paul</hi> did the ſame; both onely propoſing the danger of un<g ref="char:EOLhyphen"/>worthy receiving; and I know Chriſt had, and Saint <hi>Paul,</hi> I believe as he thought, had the Spirit of God; and if for any reſpects I refuſe to follow their Examples, and cannot plead them at the laſt day, I fear at that day they will plead againſt me.</p>
+            <pb n="31" facs="tcp:118466:16"/>
+            <q>
+               <p>Opponent. <hi>I hope you ſee by this time, that my non-adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacrament in that generall and promiſcuous way it is de<g ref="char:EOLhyphen"/>ſired, doth not lie in a willfullneſſe to hinder my people of their Pri<g ref="char:EOLhyphen"/>viledges and comforts, (If I know mine own heart, I can be con<g ref="char:EOLhyphen"/>tent to deny what of theſe Temporalls is most near and dear to me, to ſpend and be ſpent in building them up Heaven-ward) much leſſe am I induced to it by ſome in the Family where I live, as it is ground<g ref="char:EOLhyphen"/>leſly and upon their own meer phanſie (I am aſſured) reported; I be<g ref="char:EOLhyphen"/>ing of this judgement full two years ſince, but theſe Scriptures and ar<g ref="char:EOLhyphen"/>gumentations here have done it.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>Reſp.</hi> In what Family you live, I know not, nor enquire. If I did, I ſhould not think ſo thinly of you, as to ſatisfie them, you would decline your duty. He that is ruled by the Laity in his Miniſtery, is not fit for the Miniſtery. If you can be content to deny Temporals to ſave your people, I pray then deny them not this Spirituall, leaſt you ſtarve your people. You have been of this Judgement but two years; yet I hope you knew theſe Scriptures, if not theſe Argumentations too, many years before; and what was your Iudgement then? If it were then, that you might ad<g ref="char:EOLhyphen"/>miniſter it in a generall and promiſcuous way, I hope by this time you ſee, theſe Scriptures and Argumentations have no ſpell in them to alter your Judgement; I will not yet ſay, It is willfullneſſe; I would not have you ſay, it is doubt fullneſſe, leſt Saint <hi>Paul</hi> ſay to you, <hi>Whatſoever is not of Faith, is ſin.</hi> Rom. 14.23. All that I ſay more is this.</p>
+            <p>Sir, you have an anſwer, according to your Expectation, To your plain Scripturall argumentative way: I have not ſtudied to ſhew my ſelf in producing humane Authorities, which but for your ſake had been produced; but to ſatisfie Conſcience, (I change not your words) giving your owne Scriptures their clear <gap reason="foreign" resp="#OXF" extent="1 word">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and rationall deductions;
+<pb n="32" facs="tcp:118466:17"/>and waving your Zealous Menace, I give you this one or two more genuine deductions in the beſt way of reaſoning, by Syllogiſm.</p>
+            <list type="syllogism">
+               <item>1. What Saint <hi>Paul</hi> did in the adminiſtration of the Sa<g ref="char:EOLhyphen"/>crament, Miniſters may do. But Saint <hi>Paul</hi> did in a generall and promiſcuous way adminiſter the Sacrament. There<g ref="char:EOLhyphen"/>fore Miniſters may ſo do.</item>
+               <item>2. Miniſters muſt perform their duty in the adminiſtra<g ref="char:EOLhyphen"/>tion of the Sacrament, as Saint <hi>Paul</hi> performed his.</item>
+               <item>But Saint <hi>Paul</hi> performed his in a generall and promiſcu<g ref="char:EOLhyphen"/>ous way of adminiſtration of the Sacrament. Therefore Miniſters muſt ſo do.</item>
+            </list>
+            <p>Sir, you have a <hi>Licet,</hi> you may, and an <hi>Oportet,</hi> you muſt, adminiſter the Sacrament in a generall and promiſcuous way. If ſtill you think you may not, or muſt not, you may give me leave to belieue then in an <hi>Oportet,</hi> a neceſſity upon, Sir,</p>
+            <closer>
+               <signed>Your Friend <hi>THOMAS SVVADLIN</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
